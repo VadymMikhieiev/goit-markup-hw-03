@@ -185,6 +185,9 @@ img {display: block;}
 
 .logo-span {margin-right: 76px;}
 
+.list {display: flex;
+    gap: 40px;}
+
 
 
 
