@@ -168,6 +168,11 @@ body {font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
 }
 
-img {display: block;}
+img {display: block;}  
+
+.borders {border-bottom: 1px solid #e7e9fc;
+}
+
+
 
 
