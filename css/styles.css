@@ -173,6 +173,16 @@ img {display: block;}
 .borders {border-bottom: 1px solid #e7e9fc;
 }
 
+.div-element {display: flex;}
+
+.container {width: 1158px;
+            margin: 0 auto;
+            padding: 0 15px 0 15px;
+        }
+
+.nav-class {display: flex;
+    align-items: center;}
+
 
 
 
