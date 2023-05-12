@@ -183,7 +183,7 @@ img {display: block;}
 .page-navigation {display: flex;
     align-items: center;}
 
-.logo-span {margin-right: 76px;}
+.logo-link {margin-right: 76px;}
 
 .list {display: flex;
     gap: 40px;}
