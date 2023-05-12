@@ -188,6 +188,8 @@ img {display: block;}
 .list {display: flex;
     gap: 40px;}
 
+.menu-item {padding: 24px 0 24px;}
+
 
 
 
