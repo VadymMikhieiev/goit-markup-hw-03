@@ -209,8 +209,10 @@ img {display: block;}
 
 .list {display: flex;
 column-gap: 40px;
-gap: 40px;
+gap: 24px;
 }
+
+.features {padding: 120px 0;}
 
 .div-element {width: 1128px;
 margin-left: auto;
