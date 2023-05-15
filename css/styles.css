@@ -91,7 +91,13 @@ body {font-family: 'Roboto', sans-serif;
 .button-background:hover {background-color: #404BBF;}
 .button-background:focus {background-color: #404BBF;}
 
-.button-background {cursor: pointer;}
+.button-background {cursor: pointer;
+width: 169px;
+height: 56px;
+margin-top: : 48px;
+margin-bottom : 188px;
+margin-left: 636px;
+margin-right: 635px}
 
 .button-text {color: white;
     font-weight: 500;
@@ -109,6 +115,8 @@ body {font-family: 'Roboto', sans-serif;
         letter-spacing: 0.02em;
         text-transform: capitalize;
         color: var(--zagolovok);
+        padding-bottom: 72px;
+        padding-top: 120px;
     }
 
 .features-heading {font-weight: 500;
@@ -122,6 +130,7 @@ body {font-family: 'Roboto', sans-serif;
     letter-spacing: 0.02em;
     font-size: 16px;
     color: var(--link-color);
+    margin-top: 8px;
 }
 
 .our-team {background-color: #F4F4FD;}
@@ -132,9 +141,9 @@ body {font-family: 'Roboto', sans-serif;
 .footer {background-color:var(--zagolovok);}
 
 
-
                  /* PORTFOLIO*/
                  
+/*
 .body-portfolio {font-family: 'Roboto', sans-serif;
                  color: var(--link-color);}
 
@@ -168,28 +177,54 @@ body {font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
 }
 
-img {display: block;}  
+*/
 
-.borders {border-bottom: 1px solid #e7e9fc;
-}
+body {width: 1440px;}
 
-.div-element {display: flex;}
+h1, h2, h3, p {margin-top: 0;
+margin-bottom: 0;}
 
-.container {width: 1158px;
-            margin: 0 auto;
-            padding: 0 15px 0 15px;
-        }
+ul, ol {margin-top: 0;
+margin-bottom: 0;
+padding-left: 0;}
 
-.page-navigation {display: flex;
-    align-items: center;}
+img {display: block;}
 
-.logo-link {margin-right: 76px;}
+.borders {display: flex;
+padding-top: 25.5px;
+padding-bottom: 25.5px;}
+
+.page-navigation {display: flex;}
 
 .list {display: flex;
-    gap: 40px;}
+column-gap: 40px;
+}
 
-.menu-item {padding: 24px 0 24px;}
+.div-element {width: 1128px;
+margin-left: auto;
+margin-right: auto;}
 
+.logo-link {padding-right: 76px;}
 
+.adress {margin-left: auto;}
 
+.mail {margin-right: 40px;}
 
+.hero-title {padding-top: 188px;
+            padding-bottom: 48px;}
+
+            
+.section {padding-top: 120px;
+        }
+
+.titles {margin-left: 156px;
+        margin-right: 24px;
+        }     
+
+.images {margin-left: 156px;
+column-gap: 24px;
+margin-right: 156px;
+padding-bottom: 120px;}
+
+.text-in-frame {
+    }
