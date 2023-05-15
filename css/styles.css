@@ -33,7 +33,8 @@ body {font-family: 'Roboto', sans-serif;
      background-color:#ffffff;
     }
 
-.link {text-decoration:none;}
+.link {text-decoration:none;
+    padding: 24px 0;}
 
 .adress {font-style: normal;
     line-height: 1.5;
