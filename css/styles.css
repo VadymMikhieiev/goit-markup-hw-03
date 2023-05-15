@@ -98,10 +98,14 @@ body {font-family: 'Roboto', sans-serif;
 .button-background {cursor: pointer;
 width: 169px;
 height: 56px;
+display: block; 
+min-width: 169px;
 margin-top: : 48px;
 margin-bottom : 188px;
 margin-left: 636px;
-margin-right: 635px}
+margin-right: 635px;
+border: none; 
+border-radius: 4px;}
 
 .button-text {color: white;
     font-weight: 500;
