@@ -222,6 +222,8 @@ display: flex;}
 .container {width: 1158px;
     padding: 0 15px;}
 
+.first-lement: {width: calc((100% - 72px) / 4); }
+
 .logo-link {padding-right: 76px;
     margin-right: 76px;}
 
