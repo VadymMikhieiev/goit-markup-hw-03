@@ -207,7 +207,7 @@ img {display: block;}
                 }
 
 .list {display: flex;
-gap: 40px;
+gap: 24px;
 }
 
 .div-element {width: 1128px;
@@ -264,5 +264,5 @@ padding-bottom: 120px;}
 .footer {padding: 100px 0;
 }
 
-.link {display: inline-block;
+.logo-link {display: inline-block;
             margin-bottom: 16px;}
