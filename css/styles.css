@@ -150,7 +150,7 @@ border-radius: 4px;}
 
                  /* PORTFOLIO*/
                  
-/*
+
 .body-portfolio {font-family: 'Roboto', sans-serif;
                  color: var(--link-color);}
 
@@ -184,7 +184,13 @@ border-radius: 4px;}
     text-transform: uppercase;
 }
 
-*/
+             /* END OF FIRST PART PORTFOLIO*/
+
+.portfolio-header {border-bottom: 1px solid #E7E9FC;}
+
+.portfolio-container {display: flex;}
+
+             /* END OF SECOND PART PORTFOLIO*/
 
 body {width: 1440px;}
 
