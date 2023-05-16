@@ -210,7 +210,7 @@ img {display: block;}
 
 .list {display: flex;
 column-gap: 40px;
-gap: 40px;
+gap: 24px;
 }
 
 .features {padding: 120px 0;}
@@ -218,7 +218,8 @@ gap: 40px;
 .div-element {width: 1128px;
 margin-left: auto;
 margin-right: auto;
-display: flex;}
+display: flex;
+gap: 40px;}
 
 .container {width: 1158px;
     padding: 0 15px;}
