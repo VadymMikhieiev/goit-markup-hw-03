@@ -123,8 +123,8 @@ border-radius: 4px;}
         letter-spacing: 0.02em;
         text-transform: capitalize;
         color: var(--zagolovok);
-        padding-bottom: 72px;
         padding-top: 120px;
+        margin-bottom: 72px; 
     }
 
 .features-heading {font-weight: 500;
@@ -225,7 +225,7 @@ gap: 40px;}
     padding: 0 15px;
     display: flex;}
 
-.first-lement: {width: calc((100% - 72px) / 4); }
+.first-lement: {width: calc((100% - 72px) / 4);}
 
 .logo-link {padding-right: 76px;
     margin-right: 76px;}
@@ -254,4 +254,6 @@ padding-bottom: 120px;}
 
 .third-section {padding-bottom: 120px;
 }
+
+.first-foto {width: calc((100% - 48px) / 3);}
 
