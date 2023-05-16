@@ -206,11 +206,11 @@ img {display: block;}
 
 .page-navigation {display: flex;
                 align-items: center;
-                gap: 40px;}
+                }
 
 .list {display: flex;
 column-gap: 40px;
-gap: 24px;
+gap: 40px;
 }
 
 .features {padding: 120px 0;}
