@@ -208,8 +208,7 @@ img {display: block;}
                 }
 
 .list {display: flex;
-column-gap: 40px;
-gap: 24px;
+gap: 40px;
 }
 
 .div-element {width: 1128px;
@@ -234,7 +233,7 @@ gap: 40px;}
 .section {padding-top: 120px;
         }
 
-.features {padding: 120px;}
+.features {padding: 120px 0;}
 
 .titles {margin-left: 156px;
         margin-right: 24px;
