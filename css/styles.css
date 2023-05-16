@@ -222,7 +222,8 @@ display: flex;
 gap: 40px;}
 
 .container {width: 1158px;
-    padding: 0 15px;}
+    padding: 0 15px;
+    display: flex;}
 
 .first-lement: {width: calc((100% - 72px) / 4); }
 
@@ -248,3 +249,6 @@ gap: 40px;}
 column-gap: 24px;
 margin-right: 156px;
 padding-bottom: 120px;}
+
+.first-element {width: calc((100% - 72px) / 4);}
+
