@@ -265,3 +265,9 @@ padding-bottom: 120px;}
 .worker-posada {padding: 32px 16px;}
 
 .text {text-align: center;}
+
+.footer {padding: 100px 0;
+}
+
+.logo-link {display: inline-block;
+            margin-bottom: 16px;}
