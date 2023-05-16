@@ -190,6 +190,14 @@ border-radius: 4px;}
 
 .portfolio-container {display: flex;}
 
+.container {margin: 0;}
+
+.navigation {display: flex;
+    align-items: center;
+    gap: 40px;}
+
+.logo-link {gap: 40px;}
+
              /* END OF SECOND PART PORTFOLIO*/
 
 body {width: 1440px;}
