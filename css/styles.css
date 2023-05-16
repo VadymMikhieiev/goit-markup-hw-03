@@ -238,6 +238,8 @@ gap: 40px;}
         margin-right: 24px;
         }     
 
+.first-element-spiska {width: calc((100% - 72px) / 4);}
+
 .images {margin-left: 156px;
 column-gap: 24px;
 margin-right: 156px;
