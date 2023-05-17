@@ -201,6 +201,18 @@ border-radius: 4px;}
 .portfolio-second-menu {padding: 96px 0 120px;
                         }
 
+.portfolio-list {justify-content: center;
+                margin-bottom: 72px;
+                }
+.button-portfolio {padding: 12px 24px;
+                    border: 1px solid #e7e9fc;
+                    border-radius: 4px;
+            }
+
+.button-portfolio:hover {border: 1px solid transparent;
+                        }
+.button-portfolio:hover {border: 1px solid transparent;}
+
              /* END OF SECOND PART PORTFOLIO*/
 
 body {width: 1440px;}
