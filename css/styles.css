@@ -213,8 +213,10 @@ border-radius: 4px;}
                         }
 .button-portfolio:focus {border: 1px solid transparent;}
 
-.portfolio-photos {display: flex;}
+.portfolio-photos {display: flex; /*для розміщення елементів списку в рядок по горизонталі*/
+                   flex-wrap: wrap;} /*для переносу елементів списку на новий рядок якщо їм не вистачає місця в попередньому*/
 
+.portfolio-photos-first-element {width: calc((100% - 48px) / 3);} /* для визначення ширини для елемента списку (від загальної ширини екрану віднімаємо суму відступів між пунктами і ділимо це на кількість пунктів списку в одному рядку)*/
              /* END OF SECOND PART PORTFOLIO*/
 
 body {width: 1440px;}
