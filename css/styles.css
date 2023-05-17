@@ -211,7 +211,9 @@ border-radius: 4px;}
 
 .button-portfolio:hover {border: 1px solid transparent;
                         }
-.button-portfolio:hover {border: 1px solid transparent;}
+.button-portfolio:focus {border: 1px solid transparent;}
+
+.portfolio-photos {display: flex;}
 
              /* END OF SECOND PART PORTFOLIO*/
 
