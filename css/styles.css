@@ -250,7 +250,8 @@ img {display: block;}
 .nav-list {display: flex;
         gap: 40px;}
 
-.spisok-kontaktov {display: flex;}
+.spisok-kontaktov {display: flex;
+                    gap: 40px;}
 
 .container {width: 1158px;
     padding: 0 15px;
