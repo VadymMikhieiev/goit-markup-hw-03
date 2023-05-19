@@ -250,6 +250,8 @@ img {display: block;}
 .nav-list {display: flex;
         gap: 40px;}
 
+.spisok-kontaktov {display: flex;}
+
 .container {width: 1158px;
     padding: 0 15px;
     display: flex;}
@@ -269,6 +271,8 @@ img {display: block;}
                     margin-right:auto;}
 
 .hero {padding: 188px 0;}
+
+.features {padding: 120px 0;}
 
 .feature-list {display: flex;
                 gap: 24px;}
