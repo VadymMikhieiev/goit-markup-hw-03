@@ -190,6 +190,10 @@ border-radius: 4px;}
 .container {margin: 0 auto;
 }
 
+.container {width: 1158px;
+    padding: 0 15px;}
+
+.main-menu {display: flex;}
 .navigation {display: flex;
     align-items: center;
     gap: 40px;}
@@ -253,9 +257,6 @@ img {display: block;}
 .spisok-kontaktov {display: flex;
     gap: 40px;}
 
-.container {width: 1158px;
-    padding: 0 15px;
-    display: flex;}
 
 .first-element: {width: calc((100% - 72px) / 4);}
 
