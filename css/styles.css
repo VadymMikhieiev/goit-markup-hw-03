@@ -287,6 +287,8 @@ img {display: block;}
     gap: 24px;
 }
 
+.text {text-align: center;}
+
 .features-heading {text-align: center;
     margin-bottom: 8px;}
 
@@ -300,9 +302,7 @@ img {display: block;}
 
 .worker-posada {padding: 32px 16px;}
 
-.footer {padding: 100px 0;
-}
-
-.footer-special {display: inline-block;
+.footer-special {padding: 100px 0;
+                display: inline-block;
                 margin-bottom: 16px;}
 
