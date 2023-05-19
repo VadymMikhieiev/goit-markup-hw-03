@@ -304,8 +304,10 @@ img {display: block;}
 .worker-posada {padding: 32px 16px;}
 
 .footer {padding: 100px 0;
-                display: inline-block;
-                margin-bottom: 16px;}
+            display: inline-block;
+        }
 
 .text-footer {padding: 100px 0;}
+
+.footer-special {margin-bottom: 16px;}
 
