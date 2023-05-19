@@ -287,7 +287,8 @@ img {display: block;}
     gap: 24px;
 }
 
-.features-heading {margin-bottom: 8px;}
+.features-heading {text-align: center;
+    margin-bottom: 8px;}
 
 .third-section {padding-bottom: 120px;
 }
@@ -301,4 +302,7 @@ img {display: block;}
 
 .footer {padding: 100px 0;
 }
+
+.footer-special {display: inline-block;
+                margin-bottom: 16px;}
 
