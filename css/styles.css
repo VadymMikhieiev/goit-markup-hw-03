@@ -251,7 +251,7 @@ img {display: block;}
         gap: 40px;}
 
 .spisok-kontaktov {display: flex;
-                    gap: 40px;}
+    gap: 40px;}
 
 .container {width: 1158px;
     padding: 0 15px;
@@ -284,7 +284,7 @@ img {display: block;}
 .first-element-spiska {width: calc((100% - 72px) / 4);}
 
 .images {display: flex;
-    column-gap: 24px;
+    gap: 24px;
 }
 
 .features-heading {margin-bottom: 8px;}
