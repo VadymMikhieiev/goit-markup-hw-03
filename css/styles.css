@@ -191,6 +191,8 @@ border-radius: 4px;}
     padding: 0 15px;
 }
 
+.portfolio-container {display: flex;}
+
 .main-menu {display: flex;
 padding: 24px 0;}
 
@@ -203,6 +205,7 @@ padding: 24px 0;}
 gap: 40px;}
 
 .logo-link {gap: 40px;
+    padding: 24px 0;
              }
 
 .portfolio-second-menu {padding: 96px 0 120px;
