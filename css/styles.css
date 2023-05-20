@@ -27,7 +27,7 @@ a {text-decoration: none;
     color: var(--light-color);
 }
 
-.link:hover {color: #404bbf}
+.button-portfolio:hover {color: #404bbf}
 .link:focus {color: #404bbf}
 
 body {font-family: 'Roboto', sans-serif;
@@ -270,9 +270,10 @@ img {display: block;}
 
 .first-element: {width: calc((100% - 72px) / 4);}
 
-.logo-link {margin-right: 76px;
-            display: inline-block;
+.logo-link {display: inline-block;
             }
+
+.logo-link-unik {margin-right: 76px;}
 
 .menu-link {padding: 24px 0;
 display: block;}
@@ -305,10 +306,7 @@ display: block;}
     gap: 24px;
 }
 
-.text {text-align: center;}
-
-.features-heading {text-align: center;
-    margin-bottom: 8px;}
+.features-heading {margin-bottom: 8px;}
 
 .third-section {padding-bottom: 120px;
 }
