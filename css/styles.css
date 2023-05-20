@@ -210,6 +210,8 @@ gap: 40px;}
 
 .portfolio-list {justify-content: center;
                 margin-bottom: 72px;
+                display: flex;
+                gap: 24px;
                 }
 
 .button-portfolio {padding: 12px 24px;
@@ -224,6 +226,7 @@ gap: 40px;}
 .portfolio-photos {display: flex; 
                    flex-wrap: wrap; /* портит */
                    row-gap: 48px;
+                   column-gap: 24px;
                    } 
  
 .portfolio-photos-first-element {width: calc((100% - 48px) / 3);}
