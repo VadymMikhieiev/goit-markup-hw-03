@@ -243,7 +243,6 @@ gap: 40px;}
 
                  /* INDEX HTML модуль 3 */
 
-
 body {width: 1440px;}
 
 h1, h2, h3, p {margin-top: 0;
@@ -273,9 +272,8 @@ img {display: block;}
 .first-element: {width: calc((100% - 72px) / 4);}
 
 .logo-link {margin-right: 76px;
-             display: inline-block;}
-
-.logo-link-unik {padding: 24px 0;}
+            display: inline-block;
+            padding: 24px 0;}
 
 .spisok-adress {font-style: normal;}
 
