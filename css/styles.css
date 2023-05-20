@@ -264,7 +264,7 @@ img {display: block;}
 
 .nav-list {display: flex;
         gap: 40px;
-        padding: 24px 0;}
+        }
 
 .spisok-kontaktov {display: flex;
     gap: 40px;}
@@ -275,6 +275,8 @@ img {display: block;}
 .logo-link {margin-right: 76px;
             display: inline-block;
             }
+
+.menu-item {padding: 24px 0;}
 
 .spisok-adress {font-style: normal;}
 
@@ -325,5 +327,8 @@ img {display: block;}
 .footer-special {margin-bottom: 16px;
 }
 
-.text-footer {color: #F4F4FD;}
+.text-footer {color: #F4F4FD;
+    width: 264px;
+    height: 72px;
+}
 
