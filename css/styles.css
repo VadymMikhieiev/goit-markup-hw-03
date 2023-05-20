@@ -187,14 +187,14 @@ border-radius: 4px;}
 }
 
 .container {margin: 0 auto;
-    width: 1158px;
-    padding: 0 15px;
+    width: 1158px; 
+    padding: 0 15px;   
 }
 
 .portfolio-container {display: flex;}
 
 .main-menu {display: flex;
-padding: 24px 0;}
+}
 
 .navigation {display: flex;
     align-items: center;
