@@ -183,9 +183,8 @@ border-radius: 4px;}
 
              /* END OF FIRST PART PORTFOLIO*/
 
-.portfolio-header {border-bottom: 1px solid #E7E9FC;}
-
-.portfolio-container {display: flex;}
+.portfolio-header {border-bottom: 1px solid #E7E9FC;
+}
 
 .container {margin: 0 auto;
     width: 1158px;
@@ -204,8 +203,7 @@ padding: 24px 0;}
              }
 
 .portfolio-second-menu {padding: 96px 0 120px;
-                        display: flex;
-                        gap: 40px;}
+                        }
 
 .portfolio-list {justify-content: center;
                 margin-bottom: 72px;
