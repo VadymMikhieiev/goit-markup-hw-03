@@ -260,6 +260,7 @@ img {display: block;}
 
 .page-navigation {display: flex;
                 align-items: center;
+                padding: 24px 0;
                 }
 
 .nav-list {display: flex;
@@ -273,7 +274,7 @@ img {display: block;}
 
 .logo-link {margin-right: 76px;
             display: inline-block;
-            padding: 24px 0;}
+            }
 
 .spisok-adress {font-style: normal;}
 
@@ -321,5 +322,8 @@ img {display: block;}
 
 .text-footer {padding: 100px 0;}
 
-.footer-special {margin-bottom: 16px;}
+.footer-special {margin-bottom: 16px;
+}
+
+.text-footer {color: #F4F4FD;}
 
