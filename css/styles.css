@@ -188,17 +188,20 @@ border-radius: 4px;}
 .portfolio-container {display: flex;}
 
 .container {margin: 0 auto;
+    width: 1158px;
+    /*padding: 0 15px;*/
 }
 
-.container {width: 1158px;
-    padding: 0 15px;}
+.main-menu {display: flex;
+padding: 24px 0;}
 
-.main-menu {display: flex;}
 .navigation {display: flex;
     align-items: center;
-    gap: 40px;}
+    gap: 40px;
+    padding: 24px;}
 
-.logo-link {gap: 40px;}
+.logo-link {gap: 40px;
+             }
 
 .portfolio-second-menu {padding: 96px 0 120px;
                         }
